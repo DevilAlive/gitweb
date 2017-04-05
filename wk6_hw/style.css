@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: Arial Black;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: Arial Black;
+}
+
+h3 {
+  font-size: 16px;
+  font-family: Arial Black;
+}
+
+p {
+  font-size: 12px;
+  font-family: Arial Black;
+}
+
+body {
+  background-color: #DD7700;
+}
+
+.WEBSITE_SET {
+  width: 1280px;
+  margin: auto;
+  background-color: #DD7700;
+}
+
+header {
+  margin: 20px;
+  padding: 50px;
+  width: 1240px;
+  background-color: #FF9900;
+  display: inline-block;
+}
+
+.ICON {
+  margin: auto;
+  float: left;
+  display: inline-block;
+}
+
+.ICON img {
+  width: 360px;
+}
+
+.TOP_RIGHTSIDE {
+  float: right;
+  display: inline-block;
+}
+
+.NAME {
+  margin: 10px;
+  color: #331100;
+  font-family: Arial Black;
+}
+
+.FUNCTION_BAR {
+  height: 30px;
+  width: 600px;
+  background-color: #FFFFFF;
+  display: inline-block;
+}
+
+.FUNCTION_BAR li {
+  display: inline-block;
+  width: 120px;
+  float: left;
+  text-align: center;
+}
+
+.FUNCTION_BAR a {
+  margin: 0px 10px;
+  padding: 7px 0px;
+  line-height: 16px;
+  color: #000000;
+  font-family: Arial Black;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.main {
+  margin: 20px;
+  padding: 20px 50px;
+  width: 1240px;
+  background-color: #FF9900;
+  display: inline-block;
+}
+
+.MAIN_INFORMATION {
+  text-align: center;
+}
+
+.MAIN_PICTURE {
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+}
+
+.MAIN_PICTURE img {
+  width: 1200px;
+}
+
+.MAIN_LABEL {
+  line-height: 40px;
+}
+
+.MAIN_PRODUCT {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.MAIN_ICON {
+  margin: 0px 5px;
+  display: inline-block;
+}
+
+.MAIN_ICON img {
+  width: 320px;
+}
+
+footer {
+    margin: 20px 20px 0px 20px;
+    padding: 20px 50px 0px 50px;
+    width: 1240px;
+    background-color: #FF9900;
+    display: inline-block;
+}
+
+.FOOTER_LEFTSIDE {
+  width: 500px;
+  float: left;
+  display: inline-block;
+}
+
+.FOOTER_FUNCTION {
+  display: inline-block;
+}
+
+.FOOTER_LABEL {
+  width: 100px;
+  float: left;
+  text-align: center;
+}
+
+.FOOTER_LABEL a {
+  color: #000000;
+  font-family: Arial Black;
+  text-decoration: none;
+}
+
+.FOOTER_RIGHTSIDE {
+  float: right;
+  display: inline-block;
+}
+
+.FOOTER_RIGHTSIDE p {
+  margin: auto 10px;
+  float: left;
+  font-family: Arial Black;
+}
+
+.FOOTER_INFORMATION {
+  margin: 60px 0px 10px 0px;
+  display: block;
+  text-align: center;
+}
